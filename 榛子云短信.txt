@@ -1,0 +1,10 @@
+账号:yangxu   密码: 111111   地址: http://sms_developer.zhenzikj.com/zhenzisms_user
+
+apiUrl: 
+http://sms_developer.zhenzikj.com
+
+sdk下载地址: 
+http://smsow.zhenzikj.com/doc/sdk.html
+
+Python SDK 开发文档:
+http://smsow.zhenzikj.com/doc/python_sdk_doc.html

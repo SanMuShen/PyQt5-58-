@@ -1,0 +1,28 @@
+create table user1(
+    -> id int primary key auto_increment,
+    -> username varchar(20) not null,
+    -> password text not null,
+    -> phone varchar(11) not null)character set utf8;
+
+ÉèÖÃÎ¨Ò»Ë÷Òı
+
+create unique index username on user1(username);
+create unique index phone on user1(phone);
+
+
+
+
+
+ create table novel(
+ sort int,
+ sortname varchar(100),
+ name varchar(100),
+ imgurl varchar(100),
+ description text,
+ status varchar(30),
+ author varchar(100))character set utf8;
+
+create table chapter(
+novelid int,
+title varchar(500),
+content text)character set utf8;
